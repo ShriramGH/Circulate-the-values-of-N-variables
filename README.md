@@ -23,8 +23,9 @@ Using print function, print the results.
 ### Step 6: 
 end of the program
 
-## Program:#Program to circulate N values.
+## Program:
 ```
+#Program to circulate N values.
 #Developed by: Shriram.S
 #RegisterNumber:22008494
 def circulate():
